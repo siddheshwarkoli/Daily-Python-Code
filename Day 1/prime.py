@@ -33,14 +33,14 @@ prime(num)
 
 # 3rd Method
 import math
-num=int(input("Enter a number: "))
-def prime(num):
-    if num<=1:
-        print(num," is not a prime number")
+n=int(input("Enter a number: "))
+def prime(n):
+    if n<=1:
+        print(n," is not a prime number")
         return
-    for i in range(2,int(math.sqrt(num))+1):
-        if num%i==0:
-            print(num," is not a prime number")
+    for i in range(2,int(math.sqrt(n))+1):
+        if n%i==0:
+            print(n," is not a prime number")
             return
-    print(num," is a prime number")
-prime(num)
+    print(n," is a prime number")
+prime(n)
