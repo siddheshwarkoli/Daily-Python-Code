@@ -1,3 +1,5 @@
+# Write a Python program that takes a non-negative integer as input from the user and calculates its factorial.
+
 # 1st Method
 '''
 num=int(input("Enter a number: "))

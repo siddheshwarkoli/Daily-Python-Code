@@ -1,3 +1,5 @@
+# Write a Python program to check whether a given number is the factorial of any positive integer.
+
 # 1st Method
 '''
 n=int(input("Enter a number: "))

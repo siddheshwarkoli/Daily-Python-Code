@@ -1,3 +1,5 @@
+# Write a Python program that asks the user to input a number and checks whether the number is a palindrome.
+
 # 1st Method
 '''
 num=int(input("Enter a number: "))

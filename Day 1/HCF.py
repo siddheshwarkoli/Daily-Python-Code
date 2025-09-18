@@ -1,3 +1,5 @@
+# Write a Python program to find the HCF (also known as GCD – Greatest Common Divisor) of two numbers provided by the user.
+
 # 1st Method
 '''
 import math

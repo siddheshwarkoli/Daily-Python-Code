@@ -1,4 +1,4 @@
-# Check give number is fibonacci or not 
+# Write a Python program to check whether a given number is a Fibonacci number.
 
 # 1st Method
 '''

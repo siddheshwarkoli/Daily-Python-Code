@@ -1,3 +1,5 @@
+# Write a Python program to check whether a number entered by the user is an Armstrong number.
+
 # 1st Method
 '''
 def armstrong(num):

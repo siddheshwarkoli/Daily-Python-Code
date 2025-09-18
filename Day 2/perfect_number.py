@@ -1,3 +1,5 @@
+# Write a Python program that asks the user to input a number and checks whether it is a perfect number.
+
 # 1st Method
 '''
 def perfect(n):

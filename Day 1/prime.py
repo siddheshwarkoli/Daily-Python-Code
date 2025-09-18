@@ -1,3 +1,5 @@
+# Write a Python program to determine whether a number entered by the user is a prime number.
+
 # 1st Method
 '''
 num=int(input("Enter a number: "))
